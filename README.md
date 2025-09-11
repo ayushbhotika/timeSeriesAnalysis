@@ -9,13 +9,6 @@ This project performs **time series analysis and forecasting** of the weekly clo
 - TES (Triple Exponential Smoothing) gave the best performance by effectively capturing weekly seasonality and providing the lowest forecasting errors.
 - ARIMA was competitive but showed some residual challenges like non-normality and heteroskedasticity.
 
-## Installation & Usage
-git clone https://github.com/ayushbhotika/stockMarketPrediction
-cd stockMarketPrediction
-pip install -r requirements.txt
-jupyter notebook Stock_Market.ipynb
-
-
 ## Future Work
 - Implement SARIMA for enhanced seasonality modeling.
 - Experiment with GARCH/ARCH models for volatility forecasting.
