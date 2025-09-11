@@ -11,9 +11,9 @@ This project performs **time series analysis and forecasting** of the weekly clo
 
 ## Installation & Usage
 git clone https://github.com/ayushbhotika/stockMarketPrediction
-cd Stock_Data_Auto_Arima_Model
+cd stockMarketPrediction
 pip install -r requirements.txt
-jupyter notebook Stock_Data.ipynb
+jupyter notebook Stock_Market.ipynb
 
 
 ## Future Work
